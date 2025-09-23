@@ -1,5 +1,0 @@
-def calculator (a ,b , operation) : return ("add" , "subtract" , "multiply")
-result=(3+2),(6-2), (3*3)
-print (result)
-def is_prime (n):print(n)
-is_prime(10)
